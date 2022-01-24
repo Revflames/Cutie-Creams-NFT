@@ -1,0 +1,14 @@
+{
+  "name": "cutie-creams",
+  "version": "1.0.0",
+  "description": "The world's most adorable ice cream cones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Revflames",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
