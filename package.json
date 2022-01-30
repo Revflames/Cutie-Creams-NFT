@@ -1,0 +1,26 @@
+{
+  "name": "cutie-creams",
+  "version": "1.0.0",
+  "description": "The World's Most Adorable Ice Cream Cones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revflames/Cutie-Creams.git"
+  },
+  "author": "Revflames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Revflames/Cutie-Creams/issues"
+  },
+  "homepage": "https://github.com/Revflames/Cutie-Creams#readme",
+  "devDependencies": {
+    "erc721a": "^2.0.0",
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
