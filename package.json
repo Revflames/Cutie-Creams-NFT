@@ -7,8 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Revflames",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2"
+  },
+  "devDependencies": {
+    "erc721a": "^2.2.0"
   }
 }
