@@ -1,11 +1,11 @@
-# Cutie Creams ERC721A NFT
+# :ice_cream: Cutie Creams :ice_cream:
 ## Your Favorite Ice Cream Cones On The Blockchain!
 
 ![Cutie Creams](images/1500x500.jfif)
 
 We aim to create not just a NFT community, but a family around our Cutie Creams with a unique collection of 1111 colorful art pieces, made with pure love and hand drawn artwork. Below you will find an overview of our project and our community roadmap. You are more than welcome to join our Twitter and Discord for the more detailed and upcoming information regarding the project.
 
-### Join Our Ice Cream Party!
+### Join Our Cutie Creams Ice Cream Party!
 * [Twitter](https://www.twitter.com/CutieCreamsNFT)
 * [Discord](https://discord.gg/zQZsk3Zm)
 * [OpenSea](https://opensea.io/collection/cutie-creams-official)
