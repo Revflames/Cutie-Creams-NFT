@@ -13,7 +13,7 @@ We aim to create not just a NFT community, but a family around our Cutie Creams 
 ## Ethereum Based NFTs | A Community Around Love & Kindness
 Our Cutie Creams are currently being scooped up and added to each cone with love and care. Currently a release date is to be determined but we do plan to provide airdrops of future NFTs to only the most active of our community! We will be providing whitelist access via Twitter and Discord on a first come first serve as the project continues development. We will be giving away a few Cutie Creams as well! Keep an eye out for these special giveaways!
 
-# Cutie Creams Roadmap 2022
+# :world_map: Cutie Creams Roadmap 2022 :world_map:
 
 ## Cutie Creams Community Building & Release | Q2 2022
 Our focus for Q1 going into Q2 is to promote the Cutie Creams to the NFT space by informing new members about our community benefits and its goals for the future. Discord will stay private for the majority of this quarter with limited invite acceptance links being sent out on Twitter. This will give us a steady flow of interested members and allow us to focus on member individuality so we can get to know each and every single one of you!
